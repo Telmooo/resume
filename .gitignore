@@ -1,0 +1,4 @@
+build/*.aux
+build/*.log
+build/coverletter.pdf
+coverletter.tex
